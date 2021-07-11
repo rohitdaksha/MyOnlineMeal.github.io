@@ -228,3 +228,20 @@ footer{
 .center{
     text-align: center;
 }
+#btn1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 6px 20px;
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+    margin-left: 235px;
+    margin-top: 17px;
+    font-size: 1.0rem;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#btn1:hover{
+    background-color: rgb(68, 68, 68);
+}
